@@ -20,4 +20,7 @@ $RECYCLE.BIN/
 # Added by the author
 *.exe
 *.pdb
+*.scr
+ILRepack.2.0.10/
 Microsoft.Net.Compilers.1.2.1/
+TaskScheduler.2.5.18/
